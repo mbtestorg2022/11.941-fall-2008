@@ -8,13 +8,102 @@ The topic of the semester-long research paper will be the crafting of a sophisti
 
 The research paper will be prepared and developed during the semester in four phases.
 
-| ASSN # | ASSIGNMENT TOPICS | DUE DATES | PERCENTAGE OF GRADES |
-| --- | --- | --- | --- |
-| 1 | Two page research proposal ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn01)) | Due in Ses #3 | 5% |
-| 2 | Five-page outline and summary ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn02)) | Due in Ses #11 | 10% |
-| 3 | 15 minute audio-visual presentation ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn03)) | Due in Ses #24-25 | 20% |
-| 4 | Twenty-five page final paper ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn04)) | Due at the end of the semester | 40% |
-| &nbsp; | Attendance and contribution to seminar | &nbsp; | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE OF GRADES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Two page research proposal ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn01))
+{{< tdclose >}}
+{{< tdopen >}}
+Due in Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Five-page outline and summary ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn02))
+{{< tdclose >}}
+{{< tdopen >}}
+Due in Ses #11
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+15 minute audio-visual presentation ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn03))
+{{< tdclose >}}
+{{< tdopen >}}
+Due in Ses #24-25
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Twenty-five page final paper ([PDF]({{< baseurl >}}/resources/mit11_941f08_assn04))
+{{< tdclose >}}
+{{< tdopen >}}
+Due at the end of the semester
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Attendance and contribution to seminar
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each assignment will build upon the previous one, based on feedback and new information. The instructor will work with each student at every phase of the research paper development process. All submitted assignments should be double-spaced.
 
