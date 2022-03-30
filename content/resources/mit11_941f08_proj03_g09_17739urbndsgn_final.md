@@ -5,6 +5,7 @@ description: Example of student work for the final research paper assignment of 
   and failures of modern multi-family housing.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/11a043e00f4fb7e6c3ab3a5e33761156_MIT11_941f08_proj03_G09_17739UrbnDsgn_final.pdf
 file_type: application/pdf
+parent_uid: 75ab7511-a3ba-f59e-7aad-ee5a33dbd640
 resourcetype: Document
 title: 'The Impact of Urban Design Elements on the Successes and Failures of Modern
   Multi-family Housing: A Comparative Study of Robert Taylor Homes, Chicago, and HanGang

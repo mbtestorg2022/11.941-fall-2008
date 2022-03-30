@@ -5,6 +5,7 @@ description: "Example of student work: a 15 minute audio-visual presentation on 
   \ Chaturthi festival in Mumbai."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/960f795e3557fd8c18f5c97e4a40597d_MIT11_941f08_proj02_final_paper.pdf
 file_type: application/pdf
+parent_uid: 75ab7511-a3ba-f59e-7aad-ee5a33dbd640
 resourcetype: Document
 title: 'Humanizing the City: A Comparative Analysis of Festival and the Adaptation
   of Public Space'
